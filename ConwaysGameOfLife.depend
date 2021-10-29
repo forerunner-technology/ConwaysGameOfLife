@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635527481 source:/home/laflaizn/scratch/ConwaysGameOfLife/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
